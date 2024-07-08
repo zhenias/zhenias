@@ -14,5 +14,5 @@ I'm a back-end developer from Poznań, Poland.
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=zhenias" />
 </a>
 <a href="https://github.com/zhenias/zhenias">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhenias&layout=compact&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhenias&layout=compact&langs_count=4&card_width=320" />
 </a>
