@@ -9,7 +9,8 @@ I'm a back-end developer from Poznań, Poland.
 </p>
 
 <b>My website:</b> <a href="https://ide.ct8.pl">ide.ct8.pl</a>
-
-
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=zhenias" />
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhenias&layout=compact&langs_count=10&card_width=320" />
+#
+<div style="display: flex;">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=zhenias" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhenias&layout=compact&langs_count=10&card_width=320" />
+</div>
