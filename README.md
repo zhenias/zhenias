@@ -10,7 +10,6 @@ I'm a back-end developer from Poznań, Poland.
 
 <b>My website:</b> <a href="https://ide.ct8.pl">ide.ct8.pl</a>
 #
-<div style="display: flex;">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=zhenias" />
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhenias&layout=compact&langs_count=10&card_width=320" />
+<div style="display: flex; text-align: center;">
+  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhenias&layout=compact&langs_count=10&card_width=320" />
 </div>
