@@ -1,15 +1,8 @@
-# Hi! I'm Żenia 👋
+# Hey i'm Żenia 👋
 
-I'm a back-end developer from Poznań, Poland.
-
-<p>
-  - 💗 I love PHP 
-  <br>
-  - 🌴 I currently learning C++ and Python 🐍
-</p>
-
-<b>My website:</b> <a href="https://ide.ct8.pl">ide.ct8.pl</a>
+I'm a backend developer from Poznań, Poland.
 #
-<div style="display: flex; text-align: center;">
-  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhenias&layout=compact&langs_count=10&card_width=320" />
-</div>
+* I love PHP 🍪
+* I currently learning C++ and Python 🍭
+#
+**My website:** [ide.ct8.pl](https://ide.ct8.pl/)
