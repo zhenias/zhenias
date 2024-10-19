@@ -1,6 +1,6 @@
 # Hey i'm Żenia 👋
 
-I'm a backend developer from Poznań, Poland.
+I'm a back-end PHP developer from Poznań, Poland.
 #
 * I love PHP 🍪
 * I currently learning C++ and Python 🍭
