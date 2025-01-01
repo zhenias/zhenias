@@ -10,16 +10,16 @@
 ### Language programming 
 <img src="https://skillicons.dev/icons?i=php,js,jquery,cpp,cs,python,ts" />
 
-### 🛠️💻 Frameworks 
+### 🛠️💻 Frameworks:
 <img src="https://skillicons.dev/icons?i=laravel,symfony,angular" />
 
-### 🎨✨ Styling
+### 🎨✨ Styling:
 <img src="https://skillicons.dev/icons?i=css,tailwind,bootstrap" />
 
-### 🛠️🔧 Tools
+### 🛠️🔧 Tools:
 <img src="https://skillicons.dev/icons?i=git,sentry,github,debian,linux,visualstudio,postman,netlify" />
 
-### 💾🔒 Database
+### 💾🔒 Database:
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
 <details>
