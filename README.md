@@ -1,34 +1,24 @@
 # 💫 About Me:
-- I love PHP 🍪
-- I currently learning - Angular, TypeScript, C++, C# 🍭
-
+- **PHP Developer** 🍪 z zamiłowaniem do czystego kodu i skalowalnych rozwiązań backendowych.
+- W trakcie nauki **Angular**, **TypeScript**, **C++**, i **C#** 🍭, aby rozszerzyć swoje umiejętności na pełny stack.
+- Zajmuję się rozwijaniem aplikacji w **Laravel**, a także optymalizowaniem wydajności aplikacji webowych.
+- Interesuję się tworzeniem API, automatyzacją procesów oraz zapewnianiem wysokiej jakości wytwarzanego kodu.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/khxthk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khxthk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zheniass) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/khxthk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khxthk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zheniass)
 
 # 💻 Tech Stack:
-### Language programming:
-<img src="https://skillicons.dev/icons?i=php,js,jquery,cpp,cs,python,ts" />
+### Programming Languages:
+<img src="https://skillicons.dev/icons?i=php,cpp,cs,python,js,jquery,ts&perline=6" />
 
-### 🛠️💻 Frameworks:
-<img src="https://skillicons.dev/icons?i=laravel,symfony,angular" />
+### 🛠️ Frameworks & Libraries:
+<img src="https://skillicons.dev/icons?i=laravel,symfony,angular&perline=6" />
 
-### 🎨✨ Styling:
-<img src="https://skillicons.dev/icons?i=css,tailwind,bootstrap" />
+### 🎨 Styling:
+<img src="https://skillicons.dev/icons?i=css,tailwind,bootstrap&perline=6" />
 
-### 🛠️🔧 Tools:
-<img src="https://skillicons.dev/icons?i=git,sentry,github,debian,linux,visualstudio,postman,netlify" />
+### 🛠️ Tools:
+<img src="https://skillicons.dev/icons?i=git,sentry,github,githubactions,postman,nodejs,npm,bash,linux,windows,gcp&perline=6" />
 
-### 💾🔒 Database:
+### 💾 Databases:
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-
-<details>
-  <summary>📊 GitHub Stats:</summary>
-
-  ![](https://github-readme-stats.vercel.app/api?username=zhenias&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=zhenias&theme=calm_pink&hide_border=true)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenias&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-  ---
-  [![](https://visitcount.itsvg.in/api?id=zhenias&icon=5&color=3)](https://visitcount.itsvg.in)
-</details>
