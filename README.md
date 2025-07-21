@@ -1,3 +1,7 @@
 # 📊 GitHub Stats:
-![](https://raw.githubusercontent.com/zhenias/stats2/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/zhenias/stats2/master/generated/languages.svg#gh-dark-mode-only)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+	<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zhenias" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhenias&layout=compact&langs_count=8&card_width=320" />
+</a>
